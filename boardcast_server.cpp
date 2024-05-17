@@ -33,7 +33,7 @@ int main() {
     // 设置服务器地址和端口
     sockaddr_in serverAddr;
     serverAddr.sin_family = AF_INET;
-    serverAddr.sin_port = htons(54000); // 选择任意端口
+    serverAddr.sin_port = htons(10086); // 选择任意端口
     serverAddr.sin_addr.s_addr = INADDR_BROADCAST; // 广播地址
 
     // 发送广播消息

@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/boardcast_user.dir/boardcast_user.cpp.obj"
   "CMakeFiles/boardcast_user.dir/boardcast_user.cpp.obj.d"
-  "D:/code/network/bin/boardcast_user.exe"
-  "D:/code/network/bin/boardcast_user.exe.manifest"
-  "D:/code/network/bin/boardcast_user.pdb"
-  "D:/code/network/bin/libboardcast_user.dll.a"
+  "D:/code/network_test/bin/boardcast_user.exe"
+  "D:/code/network_test/bin/boardcast_user.exe.manifest"
+  "D:/code/network_test/bin/boardcast_user.pdb"
+  "D:/code/network_test/bin/libboardcast_user.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
